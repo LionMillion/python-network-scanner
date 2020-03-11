@@ -1,10 +1,11 @@
 Network_Scanner
 ----------
 A simple Network Scanner tool in Python .
-
-who he do it
----------------------------
 This Tool uses Scapy module to send and recieve ARP packets .
+
+how run this program:
+-------------------
+use terminal and type: python network_scanner.py
 
 what this is do
 -------------------------
